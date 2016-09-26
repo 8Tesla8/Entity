@@ -1,0 +1,3 @@
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\ConsoleEntety.exe.config
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\obj\Debug\ConsoleEntety.exe
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\obj\Debug\ConsoleEntety.pdb

@@ -1,0 +1,10 @@
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\Relation_1to1.exe.config
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\Relation_1to1.exe
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\Relation_1to1.pdb
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\EntityFramework.dll
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\EntityFramework.xml
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\obj\Debug\Relation_1to1.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\obj\Debug\Relation_1to1.exe
+E:\ProjectsVS\ConsoleEntety\Relation_1to1\obj\Debug\Relation_1to1.pdb

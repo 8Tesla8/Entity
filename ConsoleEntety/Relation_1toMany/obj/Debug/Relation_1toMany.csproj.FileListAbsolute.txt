@@ -1,0 +1,10 @@
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\Relation_1toMany.exe.config
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\Relation_1toMany.exe
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\Relation_1toMany.pdb
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\EntityFramework.dll
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\EntityFramework.xml
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\obj\Debug\Relation_1toMany.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\obj\Debug\Relation_1toMany.exe
+E:\ProjectsVS\ConsoleEntety\Relation_1toMany\obj\Debug\Relation_1toMany.pdb

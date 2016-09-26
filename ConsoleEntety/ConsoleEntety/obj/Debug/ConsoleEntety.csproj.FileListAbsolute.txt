@@ -1,0 +1,10 @@
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\ConsoleEntety.exe.config
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\ConsoleEntety.exe
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\ConsoleEntety.pdb
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\EntityFramework.dll
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\EntityFramework.xml
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\obj\Debug\ConsoleEntety.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\obj\Debug\ConsoleEntety.exe
+E:\ProjectsVS\ConsoleEntety\ConsoleEntety\obj\Debug\ConsoleEntety.pdb
